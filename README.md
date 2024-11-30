@@ -62,14 +62,3 @@ The **Watch Feature** bridges this gap by providing users with:
 
 ---
 
-## 📂 Repository Structure  
-
-```plaintext
-/Duolingo-Watch-Feature
-├── README.md
-├── presentation.pdf
-├── demo-video.mp4
-├── assets/
-│   ├── mockup1.png
-│   ├── mockup2.png
-└── validation-plan.md
